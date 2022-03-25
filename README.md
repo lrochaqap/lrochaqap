@@ -4,10 +4,10 @@
 
 Brazilian back-end developer in training, OOP and Web3 enthusiast. Currently, I'm focusing on helping to create responsive web applications with clean code, improving user experience with modern tech stacks.
 
-<div>
-  <a href="https://github.com/lrochaqap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrochaqap&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lrochaqap&show_icons=true&theme=vision-friendly-dark" alt="lrochaqap stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrochaqap&layout=compact&theme=vision-friendly-dark" alt="lrochaqap most languages"/>
+</p>
   
    ## Tech Stack:
  

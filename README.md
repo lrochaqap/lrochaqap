@@ -9,7 +9,7 @@ Brazilian back-end developer in training, OOP and Web3 enthusiast. Currently, I'
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrochaqap&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
   
-   ## Languages:
+   ## Tech Stack:
  
 <div style="display: inline_block">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
